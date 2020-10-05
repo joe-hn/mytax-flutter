@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "589362373542",
+    "firebase_url": "https://mytaxapp-5de74.firebaseio.com",
+    "project_id": "mytaxapp-5de74",
+    "storage_bucket": "mytaxapp-5de74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589362373542:android:44e907be5f7fd453e46567",
+        "android_client_info": {
+          "package_name": "com.example.mytax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589362373542-t90gjaqplqmv76d1msd09kv5iukcu28u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytax",
+            "certificate_hash": "1e08e88af3799812e0e05134ad3cd47dc990661b"
+          }
+        },
+        {
+          "client_id": "589362373542-ov7t0enj1996tl8ve7qqvcej9nbj6f05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmd9Vg_FjdFhiFF8XCi-BoXbAnS9Gyy4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589362373542-ov7t0enj1996tl8ve7qqvcej9nbj6f05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
